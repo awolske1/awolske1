@@ -7,7 +7,9 @@ Here are some ideas to get you started:-->
 ## A little about me
 
 <p>
-The shortest version I can give here is I've been an art director for the last 20 years, but this is the first time I've had formal training for any coding. I've got some bullet points about me as well listed below. 
+The shortest version I can give here is I've been an art director for the last 20 years. I'm coming back to finish a degree that I stop/started a couple times. I've got a ton of experience with the print side of the industry, but not much web/digital other than a few banners, social animation videos, and a handful of landing pages. I would not consider myself technically/analytically inclined, but I love to work on data-driven strategy informed advertising.
+
+I've got some bullet points about me as well listed below. 
 
 <h4> 
     <a href="http://aaronwolske.carbonmade.com" target="_blank"><u>My Portfolio Website</u></a><br>
