@@ -10,7 +10,8 @@ Here are some ideas to get you started:-->
 The shortest version I can give here is I've been an art director for the last 20 years, but this is the first time I've had formal training for any coding. I've got some bullet points about me as well listed below. 
 
 <h4> 
-    <a href="http://aaronwolske.carbonmade.com" target="_blank"><u>My Portfolio Website</u></a>
+    <a href="http://aaronwolske.carbonmade.com" target="_blank"><u>My Portfolio Website</u></a><br>
+    <a href="https://www.linkedin.com/in/aaron-wolske" target="_blank"><u>My LinkedIn Page</u></a>
 </h4>
 
 <p>
