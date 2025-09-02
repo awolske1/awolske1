@@ -25,6 +25,3 @@ The shortest version I can give here is I've been an art director for the last 2
 This was my hot air balloon. It was named Guaranteed High.</p>
 
 ![Guaranteed High](images/IMG_0099.png)
-
-<h2>How to reach me</h2>
-www.linkedin.com/in/aaron-wolske
