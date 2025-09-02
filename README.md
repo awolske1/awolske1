@@ -13,7 +13,8 @@ Here are some ideas to get you started:-->
 🎈 Fun fact: ... I have a private license to fly hot air balloons. The weather where I live has been affected by climate change, and there are very few days to safely fly now, so I sold my balloon. But here's a photo of it. <br>
 <br>
 This was my hot air balloon. It was named Guaranteed High.</p>
-![Guaranteed High Balloon](images/IMG_0099.png)
+
+![Guaranteed High](images/IMG_0099.png)
 
 <h2>How to reach me</h2>
 www.linkedin.com/in/aaron-wolske
