@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 ## A little about me
-#### [My Website](htpp://aaronwolske.carbonmade.com)
+#### <a href="http://aaronwolske.carbonmade.com" target="_blank"><u>My Portfolio Website</u></a>
 <p>🔭 I’m currently working on ... Getting my degree after waaaaaay too long <br>
 🌱 I’m currently learning ... HTML and CSS coding, and I'm also in REL100 to finish up my HUAD requirements<br>
 📫 How to reach me: ... IYKYK, otherwise, email me at awolske1@asu.edu<br>
